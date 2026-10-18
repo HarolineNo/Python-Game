@@ -6,7 +6,6 @@ Highway Dash is an arcade-like game built using Python and the Pygame library. I
 
 ## Table of Contents
 
-- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Features](#features)
